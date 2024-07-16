@@ -61,3 +61,5 @@ This smart plant watering system ensures plants receive adequate water, promotin
 
 ## For Deatailed Information
 Follow the Smart Plant watering Guidlines which has also the code for teh project
+For detailed results, you can download and view the [Result.mp4](https://github.com/Senedaa/Smart-Plant-Watering-System/raw/main/Result.mp4) file directly.
+
